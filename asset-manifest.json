@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:arsalanyasir1/app.git/static/css/main.b47b3b74.chunk.css",
+    "main.js": "/git@github.com:arsalanyasir1/app.git/static/js/main.bb51bdf2.chunk.js",
+    "main.js.map": "/git@github.com:arsalanyasir1/app.git/static/js/main.bb51bdf2.chunk.js.map",
+    "runtime-main.js": "/git@github.com:arsalanyasir1/app.git/static/js/runtime-main.1240e9a8.js",
+    "runtime-main.js.map": "/git@github.com:arsalanyasir1/app.git/static/js/runtime-main.1240e9a8.js.map",
+    "static/js/2.f3f70430.chunk.js": "/git@github.com:arsalanyasir1/app.git/static/js/2.f3f70430.chunk.js",
+    "static/js/2.f3f70430.chunk.js.map": "/git@github.com:arsalanyasir1/app.git/static/js/2.f3f70430.chunk.js.map",
+    "index.html": "/git@github.com:arsalanyasir1/app.git/index.html",
+    "precache-manifest.70f10f7ba2bac7a77a63477343e373ac.js": "/git@github.com:arsalanyasir1/app.git/precache-manifest.70f10f7ba2bac7a77a63477343e373ac.js",
+    "service-worker.js": "/git@github.com:arsalanyasir1/app.git/service-worker.js",
+    "static/css/main.b47b3b74.chunk.css.map": "/git@github.com:arsalanyasir1/app.git/static/css/main.b47b3b74.chunk.css.map",
+    "static/js/2.f3f70430.chunk.js.LICENSE.txt": "/git@github.com:arsalanyasir1/app.git/static/js/2.f3f70430.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1240e9a8.js",
+    "static/js/2.f3f70430.chunk.js",
+    "static/css/main.b47b3b74.chunk.css",
+    "static/js/main.bb51bdf2.chunk.js"
+  ]
+}
